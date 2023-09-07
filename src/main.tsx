@@ -8,9 +8,3 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <App />
   </React.StrictMode>,
 )
-
-let num: number = 55;
-
-num = 'str';
-
-console.log(num);
